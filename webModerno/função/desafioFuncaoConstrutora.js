@@ -1,3 +1,5 @@
+// Passar o código de classeVsFactory para função construtora
+
 function Pessoa(nome1) {
   this.nome1 = nome1;
   this.euSou = function() {
